@@ -8,6 +8,8 @@ Tools:
 - Tailwind CSS
 - Javascript
 
+Link: https://real-state-frontend.netlify.app/
+
 ## Screenshots:
 
 ### Web:
