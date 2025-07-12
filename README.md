@@ -2,7 +2,7 @@
 
 A responsive frontend project developed on React.js.
 
-Tool:
+Tools:
 - React
 - HTML
 - Tailwind CSS
