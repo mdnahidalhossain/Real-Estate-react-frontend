@@ -7,6 +7,7 @@ Tools:
 - HTML
 - Tailwind CSS
 - Javascript
+- Framer Motion for Animations
 
 Link: https://real-state-frontend.netlify.app/
 
